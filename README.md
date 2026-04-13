@@ -21,7 +21,11 @@ Currently deep-diving into:
 - Improving my English for technical environments.
 
 ## 📫 Let's Connect!
-* **LinkedIn:** [www.linkedin.com/in/beatriz-jimenez-herrera]
+
+* **LinkedIn:** 
+
+![Website](https://img.shields.io/website?url=www.linkedin.com%2Fin%2Fbeatriz-jimenez-herrera)
+
 * **Email:** [beatrizdelmarj@gmail.com]
 
 ---
