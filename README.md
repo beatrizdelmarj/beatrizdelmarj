@@ -45,7 +45,7 @@ Currently deep-diving into:
 
 ![Website](https://img.shields.io/badge/www.linkedin.com%2Fin%2Fbeatriz-jimenez-herrera)
 
-* **Email:** [beatrizdelmarj@gmail.com]
+* **Email:** beatrizdelmarj@gmail.com
 
 ---
 *"Si buscas resultados distintos, no hagas siempre lo mismo" – Albert Einstein*
