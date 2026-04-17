@@ -48,4 +48,4 @@ Currently deep-diving into:
 * **Email:** beatrizdelmarj@gmail.com
 
 ---
-*"Si buscas resultados distintos, no hagas siempre lo mismo" – Albert Einstein*
+*"Si buscas resultados distintos, no hagas siempre lo mismo"
