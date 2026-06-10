@@ -12,7 +12,7 @@ I'm a Data Analyst in training with a focus on transforming complex datasets int
 * **Version Control:** Git & GitHub.
 
 ## 🚀 Key Projects
-In progress
+Currently building: SQL analysis of accounts receivable - coming soon.
 
 ## 📈 Learning Journey
 Currently deep-diving into:
